@@ -23,11 +23,11 @@
               "src/assets"
             ],
             "styles": [
-              "ProyectoIntegrador_MendozaLeandro/node_modules/bootstrap/dist/css/bootstrap",
+              "ProyectoIntegrador_MendozaLeandro/node_modules/bootstrap/dist/css/bootstrap.css",
              "src/styles.css"
             ],
             "scripts": [
-              "ProyectoIntegrador_MendozaLeandro/node_modules/bootstrap/dist/js/bootstrap"
+              "ProyectoIntegrador_MendozaLeandro/node_modules/bootstrap/dist/js/bootstrap.js"
             ]
           },
           "configurations": {
