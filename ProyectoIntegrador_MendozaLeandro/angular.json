@@ -27,7 +27,7 @@
              "src/styles.css"
             ],
             "scripts": [
-              "C:/Users/Lucandro/Desktop/Argentina Programa/FinalArgprograma_MendozaLeandro/ProyectoIntegrador_MendozaLeandro/node_modules/bootstrap/dist/js/bootstrap.js"
+              "ProyectoIntegrador_MendozaLeandro/node_modules/bootstrap/dist/js/bootstrap.js"
             ]
           },
           "configurations": {
