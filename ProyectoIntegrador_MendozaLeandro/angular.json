@@ -23,7 +23,7 @@
               "src/assets"
             ],
             "styles": [
-              "C:/Users/Lucandro/Desktop/Argentina Programa/FinalArgprograma_MendozaLeandro/ProyectoIntegrador_MendozaLeandro/node_modules/bootstrap/dist/css/bootstrap.css",
+              "ProyectoIntegrador_MendozaLeandro/node_modules/bootstrap/dist/css/bootstrap.css",
              "src/styles.css"
             ],
             "scripts": [
