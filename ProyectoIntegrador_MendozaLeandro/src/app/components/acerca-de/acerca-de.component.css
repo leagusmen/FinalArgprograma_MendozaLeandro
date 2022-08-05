@@ -4,3 +4,20 @@
 div{
     background-color:     #a1b5cb;
 }
+
+@media (min-width: 576px){
+#perfil{
+    position: absolute;
+    width: 15%;
+    border-radius: 100%;
+    box-shadow: 3px 3px 3px gray;
+    left: 3%;
+    top: 550%;
+}
+}
+
+#name{
+    font-weight: bold;
+    margin-top: 30%;
+    margin-left: 0;
+}
