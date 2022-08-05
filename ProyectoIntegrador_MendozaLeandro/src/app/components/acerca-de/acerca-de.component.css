@@ -15,7 +15,7 @@ div{
     right: 83%;
 }
 }
-@media (min-width: 577px, max-width:1330){
+@media (min-width: 577px; max-width:1330){
     #perfil{
         position: absolute;
         width: 16%;
