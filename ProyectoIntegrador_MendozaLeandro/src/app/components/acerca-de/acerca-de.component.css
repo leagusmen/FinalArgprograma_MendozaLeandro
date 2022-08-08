@@ -5,7 +5,7 @@ div{
     background-color:     #a1b5cb;
 }
 
-@media (min-width: 1331px){
+@media (min-width: 576px){
 #perfil{
     position: absolute;
     width: 16%;
@@ -14,16 +14,6 @@ div{
     top: 11%;
     right: 83%;
 }
-}
-@media (min-width: 577px; max-width:1330){
-    #perfil{
-        position: absolute;
-        width: 16%;
-        border-radius: 200%;
-        box-shadow: 3px 3px 3px gray;
-        top: 11%;
-        right: 83%;
-    }
 }
 @media (max-width: 576px){
     #perfil{
