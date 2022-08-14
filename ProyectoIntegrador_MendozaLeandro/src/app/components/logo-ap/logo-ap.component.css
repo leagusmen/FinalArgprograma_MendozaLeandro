@@ -6,6 +6,19 @@
 #logoap{
     width: 150px;
 }
+.red{
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    margin-right: 2%;
+}
 img{
     width: 50px;  
+  }
+  .btn{
+    border-width: medium;
+  }
+
+  .conteiner{
+    flex-direction: column;
   }
