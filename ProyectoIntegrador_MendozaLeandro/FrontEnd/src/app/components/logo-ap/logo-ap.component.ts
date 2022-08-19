@@ -8,12 +8,9 @@ import { Router } from '@angular/router';
 })
 export class LogoAPComponent implements OnInit {
 
-  constructor(private router:Router) { }
+  constructor() { }
 
   ngOnInit(): void {
   }
-
-  login(){
-    this.router.navigate(['/login'])
-  }
+  
 }
